@@ -38,6 +38,8 @@ To use the application:
 
 The intuitive design makes it accessible to users of all technical skill levels.
 
+click the link https://sum-mate.vercel.app/ to view the app.
+
 ---
 
 This project is part of my journey toward mastering React. By building this application, I’ve deepened my knowledge of fundamental React principles and strengthened my ability to create practical, real-world applications.
