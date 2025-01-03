@@ -33,8 +33,8 @@ This counter application is versatile and can be used for:
 
 To use the application:
 - Click the **"+" button** to increase the counter.
-- Click the **"- button** to decrease the counter.
-- Click the **"RESET button** to reset the counter to zero.
+- Click the **"-" button** to decrease the counter.
+- Click the **"RESET" button** to reset the counter to zero.
 
 The intuitive design makes it accessible to users of all technical skill levels.
 
